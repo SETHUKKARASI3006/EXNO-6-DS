@@ -13,6 +13,7 @@ Data visualization is the graphical representation of information and data. By u
 
 # Algorithm:
 <br>
+
 STEP 1:Include the necessary Library.
 <br>
 
@@ -30,6 +31,7 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 <br>
+
 ```
 Developed By: SETHUKKARASI C
 Register Number: 212223230201
